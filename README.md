@@ -1,4 +1,4 @@
-# Trhottling example
+# Throttling example
 
 ```javascript
 const throttle=(func,limit)=>{
